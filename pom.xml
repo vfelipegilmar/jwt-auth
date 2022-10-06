@@ -78,6 +78,7 @@
 					</excludes>
 				</configuration>
 			</plugin>
+			<finalName>${project.artifactId}${project.version}</finalName>
 		</plugins>
 	</build>
 
